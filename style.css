@@ -1,0 +1,153 @@
+
+.foot
+	{width: 800px;
+	height: 45px;
+	padding: 0;
+	margin-top: 5px;
+	}
+
+
+.subcontentsgaiyou-r
+	{
+	width:160px;
+	padding: 0;
+	margin: 0;
+	float: right;
+	}
+
+
+.subcontentsgaiyou-l
+	{
+	width:415px;
+	padding: 0;
+	margin: 0;
+	float: left;
+	}
+
+
+.subcontentsgoukaku-r
+	{
+	width:240px;
+	padding: 0;
+	margin: 0;
+	float: right;
+	}
+
+
+.subcontentsgoukaku-l
+	{
+	width:335px;
+	padding: 0;
+	margin: 0;
+	float: left;
+	}
+
+
+.subcontents-r2
+	{
+	width:575px;
+	padding: 0;
+	margin: 0;
+	float: right;
+	}
+
+.subcontents-l2
+	{
+	width:225px;
+	padding: 0;
+	margin: 0;
+	float: left;
+	}
+
+.subcontents-r
+	{
+	width:160px;
+	padding: 0;
+	margin: 0;
+	float: right;
+	}
+	
+.subcontents-c
+	{
+	width: 400px;
+	padding: 0;
+	margin: 0;
+	float: right;
+	}
+
+.subcontents-l
+	{
+	width:240px;
+	padding: 0;
+	margin: 0;
+	float: left;
+	}
+	
+	.subcontents-cl
+	{
+	width:640px;
+	padding: 0;
+	margin: 0;
+	float: left;
+	}
+
+
+.subcontents
+	{
+	width:800px;
+	padding: 0;
+	margin-top: 5px;
+	}
+
+.center
+	{
+	width:800px;
+	padding: 0;
+	margin-top: 5px;
+	}
+
+.contents
+	{width: 800px;
+	height: 25px;
+	padding: 0;
+	margin: 0;
+	}
+
+.head-r
+	{width: 570px;
+	height: 55px;
+	padding: 0;
+	margin: 0;
+	text-align: right;
+	font-color: #000000;
+	float: right;
+	}
+
+.head-l
+	{width: 230px;
+	height: 55px;
+	padding: 0;
+	margin: 0;
+	float: left;
+	}
+
+.head
+	{width: 800px;
+	height: 55px;
+	padding: 0;
+	margin-bottom: 5px;
+	}
+
+.all{
+	font-size: 80%;
+	width: 800px;
+	margin-top: 0;
+	margin-left: auto;
+	margin-bottom: 0;
+	margin-right: auto;
+	padding-top: 0;
+	padding-left: auto;
+	padding-bottom: 0;
+	padding-right: auto;
+}
+
